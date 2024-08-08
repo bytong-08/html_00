@@ -10,7 +10,7 @@
 #
  
 ## 下载方式 2 / Download Method 2
-* 也可以选择在[Release](https://github.com/bytong_08/html_00/releases/tag/0)中进行下载
+* 也可以选择在[Release](https://github.com/bytong-08/html_00/releases/tag/0)中进行下载
 * You can also choose to download it in the [Release](https://github.com/bytong-08/html_00/releases/tag/0). 
 
 #
