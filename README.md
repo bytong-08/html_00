@@ -1,6 +1,6 @@
 # 警告 / Warning / ⚠
 
-* 此网站只为我的女朋友一人制作,未经仓库主人授权，禁止克隆本仓库
+* 此网站只为我的朋友一人制作,未经仓库主人授权，禁止克隆本仓库
 * This website is only made for my girlfriend. Unauthorized cloning of this repository is prohibited without the authorization of the repository owner.
 
  ## 下载方式 1 / Download Method 1
